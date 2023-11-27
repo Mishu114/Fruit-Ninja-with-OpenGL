@@ -1,0 +1,266 @@
+﻿  main.cpp
+C:\Users\User\Desktop\Fruit_Ninja\curve.h(142,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\curve.h(142,28): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\curve.h(145,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\curve.h(155,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\curve.h(161,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\curve.h(162,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(269,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(274,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\Sphere2.h(331,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(175,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(266,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(266,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(266,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(267,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(267,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(267,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(268,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(268,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(269,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(269,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(270,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(270,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(270,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(271,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(271,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(271,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(272,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(272,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(272,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(273,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(273,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(273,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(274,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(274,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(274,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(275,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(275,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(275,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(276,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(276,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(276,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(277,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(277,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(277,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(278,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(278,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(278,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(279,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(279,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(279,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(280,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(280,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(280,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(281,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(281,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(281,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(592,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(605,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(780,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(783,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(792,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(887,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(899,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(899,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(911,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(903,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(981,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(985,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(988,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(992,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\Fruit_Ninja\main.cpp(1003,30): warning C4305: '=': truncation from 'double' to 'float'
+  Project2.vcxproj -> C:\Users\User\Desktop\Fruit_Ninja\x64\Debug\Project2.exe
