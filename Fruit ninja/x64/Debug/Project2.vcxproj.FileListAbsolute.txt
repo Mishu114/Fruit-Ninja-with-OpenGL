@@ -1,0 +1,6 @@
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\x64\Debug\Project2.exe
+D:\Downloads\Project2 (3)\Project2\x64\Debug\Project2.exe
+C:\Users\User\Desktop\Rafi\x64\Debug\Project2.exe
+D:\Downloads\Shorif\Shorif\x64\Debug\Project2.exe
+C:\Users\User\Desktop\Final Project\Shorif\x64\Debug\Project2.exe
+D:\Downloads\Final Project\Shorif\Shorif\x64\Debug\Project2.exe
